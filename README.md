@@ -30,9 +30,9 @@ Nightmare of Decay 비공식 한글패치 입니다.
 ---
 # Preview
 
-![메인화면](./Screenshot/1.png)
-![설정](./Screenshot/2.png)
-![인게임](./Screenshot/3.png)
+![메인화면](./Screenshot/1.jpg)
+![설정](./Screenshot/2.jpg)
+![인게임](./Screenshot/3.jpg)
 
 
 ---
